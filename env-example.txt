@@ -1,0 +1,12 @@
+## Example environment variables file.
+## Replace placeholder values with your real secrets in a local `.env.local` (never commit real secrets).
+
+# Azure DevOps
+ADO_ORG=your_org_name
+ADO_PROJECT=your_project_name
+ADO_PAT=YOUR_AZURE_DEVOPS_PAT_HERE
+
+# Resend (Email)
+RESEND_API_KEY=YOUR_RESEND_API_KEY_HERE
+EMAIL_FROM=onboarding@resend.dev
+EMAIL_TO=you@example.com
